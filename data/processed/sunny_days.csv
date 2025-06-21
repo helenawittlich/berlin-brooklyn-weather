@@ -1,361 +1,361 @@
 ,day,sunny_flag_brooklyn,weather_description_brooklyn,sunny_flag_berlin,weather_description_berlin
-3264,2024-06-21,False,Rain,False,Rain
-3265,2024-06-22,False,Rain,False,Heavy Drizzle
-3266,2024-06-23,False,Rain,False,Cloudy
-3267,2024-06-24,False,Rain,False,Light Drizzle
-3268,2024-06-25,False,Heavy Drizzle,False,Cloudy
-3269,2024-06-26,False,Drizzle,False,Cloudy
-3270,2024-06-27,False,Light Drizzle,False,Heavy Rain
-3271,2024-06-28,False,Rain,False,Rain
-3272,2024-06-29,False,Light Rain,False,Light Drizzle
-3273,2024-06-30,False,Light Rain,False,Rain
-3274,2024-07-01,False,Heavy Snow,False,Rain
-3275,2024-07-02,False,Heavy Snow,False,Light Drizzle
-3276,2024-07-03,False,Drizzle,False,Light Drizzle
-3277,2024-07-04,False,Light Drizzle,False,Light Rain
-3278,2024-07-05,False,Snow,False,Cloudy
-3279,2024-07-06,False,Drizzle,False,Light Drizzle
-3280,2024-07-07,False,Rain,False,Cloudy
-3281,2024-07-08,False,Snow,False,Cloudy
-3282,2024-07-09,False,Heavy Snow,False,Cloudy
-3283,2024-07-10,False,Light Rain,False,Heavy Drizzle
+3264,2024-06-21,False,Cloudy,False,Rain
+3265,2024-06-22,False,Light Rain,False,Heavy Drizzle
+3266,2024-06-23,False,Light Drizzle,False,Cloudy
+3267,2024-06-24,False,Cloudy,False,Light Drizzle
+3268,2024-06-25,False,Cloudy,False,Cloudy
+3269,2024-06-26,False,Light Drizzle,False,Cloudy
+3270,2024-06-27,False,Rain,False,Heavy Rain
+3271,2024-06-28,False,Cloudy,False,Rain
+3272,2024-06-29,False,Drizzle,False,Light Drizzle
+3273,2024-06-30,False,Heavy Rain,False,Rain
+3274,2024-07-01,False,Light Drizzle,False,Rain
+3275,2024-07-02,False,Cloudy,False,Light Drizzle
+3276,2024-07-03,False,Cloudy,False,Light Drizzle
+3277,2024-07-04,False,Light Rain,False,Light Rain
+3278,2024-07-05,False,Light Drizzle,False,Cloudy
+3279,2024-07-06,False,Cloudy,False,Light Drizzle
+3280,2024-07-07,False,Light Drizzle,False,Cloudy
+3281,2024-07-08,False,Light Drizzle,False,Cloudy
+3282,2024-07-09,False,Light Drizzle,False,Cloudy
+3283,2024-07-10,False,Light Drizzle,False,Heavy Drizzle
 3284,2024-07-11,False,Light Rain,False,Rain
-3285,2024-07-12,False,Drizzle,False,Drizzle
-3286,2024-07-13,False,Drizzle,False,Light Rain
-3287,2024-07-14,False,Light Rain,False,Heavy Drizzle
-3288,2024-07-15,False,Light Drizzle,False,Cloudy
-3289,2024-07-16,False,Light Drizzle,False,Heavy Drizzle
-3290,2024-07-17,False,Drizzle,False,Light Drizzle
-3291,2024-07-18,False,Light Rain,False,Cloudy
-3292,2024-07-19,False,Drizzle,False,Cloudy
+3285,2024-07-12,False,Light Rain,False,Drizzle
+3286,2024-07-13,False,Rain,False,Light Rain
+3287,2024-07-14,False,Light Drizzle,False,Heavy Drizzle
+3288,2024-07-15,False,Light Rain,False,Cloudy
+3289,2024-07-16,False,Drizzle,False,Heavy Drizzle
+3290,2024-07-17,False,Heavy Rain,False,Light Drizzle
+3291,2024-07-18,False,Light Drizzle,False,Cloudy
+3292,2024-07-19,False,Partly Cloudy,False,Cloudy
 3293,2024-07-20,False,Drizzle,False,Cloudy
-3294,2024-07-21,False,Light Drizzle,False,Drizzle
-3295,2024-07-22,False,Drizzle,False,Drizzle
-3296,2024-07-23,False,Rain,False,Heavy Drizzle
-3297,2024-07-24,False,Light Rain,False,Drizzle
-3298,2024-07-25,False,Light Drizzle,False,Cloudy
-3299,2024-07-26,False,Mainly Sunny,False,Drizzle
-3300,2024-07-27,False,Drizzle,False,Rain
-3301,2024-07-28,False,Light Drizzle,False,Rain
-3302,2024-07-29,False,Drizzle,False,Cloudy
-3303,2024-07-30,False,Light Rain,False,Cloudy
-3304,2024-07-31,False,Light Rain,False,Cloudy
-3305,2024-08-01,False,Light Rain,False,Cloudy
-3306,2024-08-02,False,Light Rain,False,Cloudy
-3307,2024-08-03,False,Light Drizzle,False,Cloudy
-3308,2024-08-04,False,Drizzle,False,Light Rain
-3309,2024-08-05,False,Light Rain,False,Light Drizzle
-3310,2024-08-06,False,Rain,False,Cloudy
-3311,2024-08-07,False,Heavy Drizzle,False,Cloudy
-3312,2024-08-08,True,Sunny,False,Drizzle
-3313,2024-08-09,False,Light Rain,False,Heavy Drizzle
-3314,2024-08-10,False,Rain,False,Light Drizzle
-3315,2024-08-11,False,Light Rain,False,Cloudy
+3294,2024-07-21,False,Light Rain,False,Drizzle
+3295,2024-07-22,False,Light Rain,False,Drizzle
+3296,2024-07-23,False,Drizzle,False,Heavy Drizzle
+3297,2024-07-24,False,Rain,False,Drizzle
+3298,2024-07-25,False,Rain,False,Cloudy
+3299,2024-07-26,False,Cloudy,False,Drizzle
+3300,2024-07-27,False,Cloudy,False,Rain
+3301,2024-07-28,False,Cloudy,False,Rain
+3302,2024-07-29,False,Light Rain,False,Cloudy
+3303,2024-07-30,False,Light Drizzle,False,Cloudy
+3304,2024-07-31,False,Rain,False,Cloudy
+3305,2024-08-01,False,Partly Cloudy,False,Cloudy
+3306,2024-08-02,False,Rain,False,Cloudy
+3307,2024-08-03,False,Light Rain,False,Cloudy
+3308,2024-08-04,False,Rain,False,Light Rain
+3309,2024-08-05,False,Cloudy,False,Light Drizzle
+3310,2024-08-06,False,Heavy Rain,False,Cloudy
+3311,2024-08-07,False,Rain,False,Cloudy
+3312,2024-08-08,False,Heavy Drizzle,False,Drizzle
+3313,2024-08-09,False,Heavy Rain,False,Heavy Drizzle
+3314,2024-08-10,False,Light Rain,False,Light Drizzle
+3315,2024-08-11,False,Light Drizzle,False,Cloudy
 3316,2024-08-12,False,Light Drizzle,False,Mainly Sunny
-3317,2024-08-13,False,Light Drizzle,False,Cloudy
-3318,2024-08-14,False,Rain,False,Drizzle
-3319,2024-08-15,False,Light Drizzle,False,Light Rain
-3320,2024-08-16,False,Drizzle,False,Cloudy
-3321,2024-08-17,False,Light Drizzle,False,Cloudy
-3322,2024-08-18,False,Light Rain,False,Light Drizzle
-3323,2024-08-19,False,Drizzle,False,Cloudy
+3317,2024-08-13,False,Cloudy,False,Cloudy
+3318,2024-08-14,False,Light Drizzle,False,Drizzle
+3319,2024-08-15,False,Mainly Sunny,False,Light Rain
+3320,2024-08-16,False,Light Drizzle,False,Cloudy
+3321,2024-08-17,False,Drizzle,False,Cloudy
+3322,2024-08-18,False,Rain,False,Light Drizzle
+3323,2024-08-19,False,Heavy Rain,False,Cloudy
 3324,2024-08-20,False,Light Drizzle,False,Cloudy
-3325,2024-08-21,False,Light Drizzle,False,Light Drizzle
-3326,2024-08-22,False,Heavy Drizzle,False,Cloudy
-3327,2024-08-23,False,Drizzle,False,Cloudy
-3328,2024-08-24,False,Light Rain,False,Cloudy
+3325,2024-08-21,False,Mainly Sunny,False,Light Drizzle
+3326,2024-08-22,False,Cloudy,False,Cloudy
+3327,2024-08-23,False,Partly Cloudy,False,Cloudy
+3328,2024-08-24,False,Cloudy,False,Cloudy
 3329,2024-08-25,False,Light Drizzle,False,Cloudy
-3330,2024-08-26,False,Drizzle,False,Cloudy
-3331,2024-08-27,False,Drizzle,True,Sunny
-3332,2024-08-28,False,Light Drizzle,True,Sunny
-3333,2024-08-29,False,Light Snow,False,Cloudy
-3334,2024-08-30,True,Sunny,False,Light Rain
+3330,2024-08-26,False,Light Drizzle,False,Cloudy
+3331,2024-08-27,False,Light Drizzle,True,Sunny
+3332,2024-08-28,False,Cloudy,True,Sunny
+3333,2024-08-29,False,Light Rain,False,Cloudy
+3334,2024-08-30,False,Drizzle,False,Light Rain
 3335,2024-08-31,False,Light Drizzle,False,Light Drizzle
-3336,2024-09-01,False,Light Drizzle,False,Drizzle
-3337,2024-09-02,False,Light Drizzle,False,Cloudy
+3336,2024-09-01,False,Drizzle,False,Drizzle
+3337,2024-09-02,False,Cloudy,False,Cloudy
 3338,2024-09-03,True,Sunny,False,Light Drizzle
-3339,2024-09-04,False,Light Drizzle,False,Mainly Sunny
-3340,2024-09-05,True,Sunny,True,Sunny
-3341,2024-09-06,False,Heavy Snow,False,Mainly Sunny
-3342,2024-09-07,False,Snow,False,Cloudy
-3343,2024-09-08,False,Snow,False,Cloudy
-3344,2024-09-09,False,Heavy Snow,False,Light Rain
-3345,2024-09-10,False,Mainly Sunny,False,Light Drizzle
-3346,2024-09-11,True,Sunny,False,Light Drizzle
+3339,2024-09-04,True,Sunny,False,Mainly Sunny
+3340,2024-09-05,False,Mainly Sunny,True,Sunny
+3341,2024-09-06,False,Light Drizzle,False,Mainly Sunny
+3342,2024-09-07,False,Rain,False,Cloudy
+3343,2024-09-08,True,Sunny,False,Cloudy
+3344,2024-09-09,False,Cloudy,False,Light Rain
+3345,2024-09-10,True,Sunny,False,Light Drizzle
+3346,2024-09-11,False,Cloudy,False,Light Drizzle
 3347,2024-09-12,False,Cloudy,False,Light Drizzle
-3348,2024-09-13,False,Light Drizzle,False,Light Rain
-3349,2024-09-14,False,Drizzle,False,Light Drizzle
-3350,2024-09-15,False,Drizzle,False,Cloudy
-3351,2024-09-16,False,Light Rain,False,Light Rain
-3352,2024-09-17,False,Drizzle,False,Mainly Sunny
-3353,2024-09-18,False,Light Drizzle,False,Cloudy
-3354,2024-09-19,False,Drizzle,False,Light Drizzle
-3355,2024-09-20,False,Heavy Drizzle,True,Sunny
-3356,2024-09-21,False,Drizzle,True,Sunny
-3357,2024-09-22,False,Drizzle,False,Partly Cloudy
+3348,2024-09-13,False,Cloudy,False,Light Rain
+3349,2024-09-14,False,Light Drizzle,False,Light Drizzle
+3350,2024-09-15,False,Mainly Sunny,False,Cloudy
+3351,2024-09-16,False,Cloudy,False,Light Rain
+3352,2024-09-17,False,Cloudy,False,Mainly Sunny
+3353,2024-09-18,False,Cloudy,False,Cloudy
+3354,2024-09-19,False,Cloudy,False,Light Drizzle
+3355,2024-09-20,False,Cloudy,True,Sunny
+3356,2024-09-21,False,Cloudy,True,Sunny
+3357,2024-09-22,False,Cloudy,False,Partly Cloudy
 3358,2024-09-23,False,Light Drizzle,False,Cloudy
-3359,2024-09-24,True,Sunny,False,Rain
-3360,2024-09-25,False,Light Rain,False,Light Rain
-3361,2024-09-26,False,Heavy Snow,False,Light Rain
-3362,2024-09-27,False,Heavy Snow,False,Light Drizzle
-3363,2024-09-28,False,Cloudy,False,Light Drizzle
-3364,2024-09-29,False,Cloudy,False,Cloudy
-3365,2024-09-30,False,Snow,False,Cloudy
-3366,2024-10-01,False,Light Snow,False,Rain
-3367,2024-10-02,False,Heavy Snow,False,Light Rain
-3368,2024-10-03,False,Heavy Snow,False,Light Rain
-3369,2024-10-04,False,Heavy Snow,False,Light Drizzle
-3370,2024-10-05,False,Cloudy,False,Light Drizzle
-3371,2024-10-06,False,Heavy Snow,False,Cloudy
-3372,2024-10-07,False,Light Drizzle,False,Light Drizzle
+3359,2024-09-24,False,Cloudy,False,Rain
+3360,2024-09-25,False,Light Drizzle,False,Light Rain
+3361,2024-09-26,False,Light Rain,False,Light Rain
+3362,2024-09-27,False,Drizzle,False,Light Drizzle
+3363,2024-09-28,False,Rain,False,Light Drizzle
+3364,2024-09-29,False,Light Drizzle,False,Cloudy
+3365,2024-09-30,False,Cloudy,False,Cloudy
+3366,2024-10-01,False,Cloudy,False,Rain
+3367,2024-10-02,False,Cloudy,False,Light Rain
+3368,2024-10-03,False,Cloudy,False,Light Rain
+3369,2024-10-04,False,Light Drizzle,False,Light Drizzle
+3370,2024-10-05,False,Light Drizzle,False,Light Drizzle
+3371,2024-10-06,False,Cloudy,False,Cloudy
+3372,2024-10-07,False,Rain,False,Light Drizzle
 3373,2024-10-08,False,Cloudy,False,Drizzle
-3374,2024-10-09,False,Partly Cloudy,False,Rain
-3375,2024-10-10,False,Snow,False,Drizzle
-3376,2024-10-11,False,Snow,False,Light Drizzle
-3377,2024-10-12,False,Snow,False,Cloudy
+3374,2024-10-09,False,Light Drizzle,False,Rain
+3375,2024-10-10,False,Mainly Sunny,False,Drizzle
+3376,2024-10-11,True,Sunny,False,Light Drizzle
+3377,2024-10-12,False,Partly Cloudy,False,Cloudy
 3378,2024-10-13,False,Cloudy,False,Heavy Drizzle
-3379,2024-10-14,False,Snow,False,Light Drizzle
-3380,2024-10-15,False,Heavy Snow,False,Cloudy
-3381,2024-10-16,False,Heavy Snow,False,Cloudy
+3379,2024-10-14,False,Cloudy,False,Light Drizzle
+3380,2024-10-15,False,Cloudy,False,Cloudy
+3381,2024-10-16,False,Cloudy,False,Cloudy
 3382,2024-10-17,False,Cloudy,False,Cloudy
-3383,2024-10-18,False,Cloudy,False,Cloudy
-3384,2024-10-19,False,Partly Cloudy,False,Cloudy
+3383,2024-10-18,True,Sunny,False,Cloudy
+3384,2024-10-19,True,Sunny,False,Cloudy
 3385,2024-10-20,False,Partly Cloudy,False,Cloudy
-3386,2024-10-21,False,Cloudy,False,Drizzle
-3387,2024-10-22,False,Light Snow,False,Cloudy
-3388,2024-10-23,False,Heavy Snow,False,Cloudy
-3389,2024-10-24,False,Snow,False,Cloudy
-3390,2024-10-25,False,Heavy Snow,False,Mainly Sunny
-3391,2024-10-26,False,Snow,False,Cloudy
-3392,2024-10-27,False,Heavy Snow,False,Light Drizzle
-3393,2024-10-28,False,Heavy Snow,False,Light Drizzle
-3394,2024-10-29,False,Cloudy,False,Light Drizzle
+3386,2024-10-21,True,Sunny,False,Drizzle
+3387,2024-10-22,True,Sunny,False,Cloudy
+3388,2024-10-23,False,Partly Cloudy,False,Cloudy
+3389,2024-10-24,False,Drizzle,False,Cloudy
+3390,2024-10-25,False,Cloudy,False,Mainly Sunny
+3391,2024-10-26,False,Partly Cloudy,False,Cloudy
+3392,2024-10-27,False,Cloudy,False,Light Drizzle
+3393,2024-10-28,False,Partly Cloudy,False,Light Drizzle
+3394,2024-10-29,False,Light Drizzle,False,Light Drizzle
 3395,2024-10-30,False,Cloudy,False,Cloudy
 3396,2024-10-31,False,Cloudy,False,Cloudy
-3397,2024-11-01,False,Heavy Snow,False,Cloudy
-3398,2024-11-02,False,Heavy Snow,False,Light Drizzle
+3397,2024-11-01,False,Light Drizzle,False,Cloudy
+3398,2024-11-02,False,Partly Cloudy,False,Light Drizzle
 3399,2024-11-03,False,Cloudy,False,Cloudy
-3400,2024-11-04,False,Snow,False,Cloudy
-3401,2024-11-05,False,Heavy Snow,False,Cloudy
-3402,2024-11-06,False,Heavy Snow,False,Cloudy
-3403,2024-11-07,False,Heavy Snow,False,Cloudy
-3404,2024-11-08,False,Snow,False,Cloudy
+3400,2024-11-04,False,Cloudy,False,Cloudy
+3401,2024-11-05,False,Cloudy,False,Cloudy
+3402,2024-11-06,False,Cloudy,False,Cloudy
+3403,2024-11-07,False,Cloudy,False,Cloudy
+3404,2024-11-08,False,Cloudy,False,Cloudy
 3405,2024-11-09,False,Cloudy,False,Cloudy
-3406,2024-11-10,False,Snow,False,Cloudy
-3407,2024-11-11,False,Snow,False,Light Drizzle
-3408,2024-11-12,False,Snow,False,Light Drizzle
-3409,2024-11-13,False,Heavy Snow,False,Light Drizzle
+3406,2024-11-10,False,Drizzle,False,Cloudy
+3407,2024-11-11,False,Light Rain,False,Light Drizzle
+3408,2024-11-12,False,Partly Cloudy,False,Light Drizzle
+3409,2024-11-13,False,Partly Cloudy,False,Light Drizzle
 3410,2024-11-14,False,Cloudy,False,Light Drizzle
 3411,2024-11-15,False,Cloudy,False,Light Drizzle
-3412,2024-11-16,False,Cloudy,False,Cloudy
+3412,2024-11-16,True,Sunny,False,Cloudy
 3413,2024-11-17,False,Cloudy,False,Heavy Drizzle
-3414,2024-11-18,False,Snow,False,Light Drizzle
-3415,2024-11-19,False,Heavy Snow,False,Snow
-3416,2024-11-20,False,Heavy Snow,False,Light Snow
-3417,2024-11-21,False,Snow,False,Light Snow
-3418,2024-11-22,False,Cloudy,False,Light Snow
-3419,2024-11-23,True,Sunny,False,Light Drizzle
+3414,2024-11-18,False,Cloudy,False,Light Drizzle
+3415,2024-11-19,False,Cloudy,False,Snow
+3416,2024-11-20,False,Cloudy,False,Light Snow
+3417,2024-11-21,False,Heavy Rain,False,Light Snow
+3418,2024-11-22,False,Rain,False,Light Snow
+3419,2024-11-23,False,Light Drizzle,False,Light Drizzle
 3420,2024-11-24,False,Cloudy,False,Rain
 3421,2024-11-25,False,Cloudy,False,Cloudy
-3422,2024-11-26,False,Cloudy,False,Light Drizzle
-3423,2024-11-27,True,Sunny,False,Light Rain
-3424,2024-11-28,False,Cloudy,False,Light Rain
+3422,2024-11-26,False,Light Rain,False,Light Drizzle
+3423,2024-11-27,False,Cloudy,False,Light Rain
+3424,2024-11-28,False,Rain,False,Light Rain
 3425,2024-11-29,False,Cloudy,False,Light Drizzle
-3426,2024-11-30,False,Light Snow,False,Cloudy
-3427,2024-12-01,False,Snow,False,Mainly Sunny
+3426,2024-11-30,False,Partly Cloudy,False,Cloudy
+3427,2024-12-01,False,Cloudy,False,Mainly Sunny
 3428,2024-12-02,False,Cloudy,False,Cloudy
-3429,2024-12-03,False,Partly Cloudy,False,Drizzle
+3429,2024-12-03,False,Light Drizzle,False,Drizzle
 3430,2024-12-04,False,Cloudy,False,Light Drizzle
-3431,2024-12-05,False,Cloudy,False,Light Drizzle
+3431,2024-12-05,False,Heavy Snow,False,Light Drizzle
 3432,2024-12-06,False,Cloudy,False,Light Rain
-3433,2024-12-07,False,Snow,False,Drizzle
-3434,2024-12-08,False,Snow,False,Light Drizzle
-3435,2024-12-09,False,Mainly Sunny,False,Drizzle
-3436,2024-12-10,True,Sunny,False,Light Drizzle
-3437,2024-12-11,True,Sunny,False,Cloudy
-3438,2024-12-12,True,Sunny,False,Cloudy
-3439,2024-12-13,False,Cloudy,False,Cloudy
-3440,2024-12-14,False,Light Snow,False,Drizzle
-3441,2024-12-15,False,Snow,False,Drizzle
-3442,2024-12-16,False,Cloudy,False,Light Drizzle
-3443,2024-12-17,False,Cloudy,False,Light Drizzle
-3444,2024-12-18,False,Cloudy,False,Light Drizzle
-3445,2024-12-19,False,Snow,False,Light Rain
-3446,2024-12-20,False,Snow,False,Light Drizzle
-3447,2024-12-21,False,Light Snow,False,Light Drizzle
+3433,2024-12-07,False,Cloudy,False,Drizzle
+3434,2024-12-08,False,Cloudy,False,Light Drizzle
+3435,2024-12-09,False,Light Rain,False,Drizzle
+3436,2024-12-10,False,Light Rain,False,Light Drizzle
+3437,2024-12-11,False,Rain,False,Cloudy
+3438,2024-12-12,False,Light Drizzle,False,Cloudy
+3439,2024-12-13,True,Sunny,False,Cloudy
+3440,2024-12-14,False,Cloudy,False,Drizzle
+3441,2024-12-15,False,Light Drizzle,False,Drizzle
+3442,2024-12-16,False,Light Snow,False,Light Drizzle
+3443,2024-12-17,False,Light Rain,False,Light Drizzle
+3444,2024-12-18,False,Heavy Drizzle,False,Light Drizzle
+3445,2024-12-19,False,Heavy Drizzle,False,Light Rain
+3446,2024-12-20,False,Light Snow,False,Light Drizzle
+3447,2024-12-21,False,Snow,False,Light Drizzle
 3448,2024-12-22,False,Mainly Sunny,False,Drizzle
-3449,2024-12-23,True,Sunny,False,Snow
-3450,2024-12-24,True,Sunny,False,Cloudy
-3451,2024-12-25,True,Sunny,False,Light Drizzle
+3449,2024-12-23,False,Cloudy,False,Snow
+3450,2024-12-24,False,Snow,False,Cloudy
+3451,2024-12-25,False,Cloudy,False,Light Drizzle
 3452,2024-12-26,False,Cloudy,False,Light Drizzle
 3453,2024-12-27,False,Cloudy,False,Cloudy
-3454,2024-12-28,True,Sunny,False,Cloudy
-3455,2024-12-29,False,Snow,False,Cloudy
-3456,2024-12-30,False,Snow,False,Cloudy
-3457,2024-12-31,False,Snow,False,Cloudy
-3458,2025-01-01,False,Snow,False,Cloudy
-3459,2025-01-02,False,Light Snow,False,Heavy Drizzle
+3454,2024-12-28,False,Drizzle,False,Cloudy
+3455,2024-12-29,False,Heavy Drizzle,False,Cloudy
+3456,2024-12-30,False,Rain,False,Cloudy
+3457,2024-12-31,False,Rain,False,Cloudy
+3458,2025-01-01,False,Rain,False,Cloudy
+3459,2025-01-02,False,Cloudy,False,Heavy Drizzle
 3460,2025-01-03,False,Cloudy,False,Snow
 3461,2025-01-04,False,Cloudy,False,Cloudy
-3462,2025-01-05,False,Light Snow,False,Heavy Snow
-3463,2025-01-06,False,Light Snow,False,Rain
-3464,2025-01-07,False,Heavy Snow,False,Light Snow
-3465,2025-01-08,False,Heavy Snow,False,Light Snow
-3466,2025-01-09,True,Sunny,False,Heavy Snow
-3467,2025-01-10,True,Sunny,False,Snow
-3468,2025-01-11,True,Sunny,False,Snow
-3469,2025-01-12,True,Sunny,False,Cloudy
-3470,2025-01-13,True,Sunny,False,Cloudy
+3462,2025-01-05,False,Cloudy,False,Heavy Snow
+3463,2025-01-06,False,Snow,False,Rain
+3464,2025-01-07,False,Light Snow,False,Light Snow
+3465,2025-01-08,False,Cloudy,False,Light Snow
+3466,2025-01-09,False,Cloudy,False,Heavy Snow
+3467,2025-01-10,False,Cloudy,False,Snow
+3468,2025-01-11,False,Snow,False,Snow
+3469,2025-01-12,False,Cloudy,False,Cloudy
+3470,2025-01-13,False,Cloudy,False,Cloudy
 3471,2025-01-14,False,Cloudy,False,Light Rain
 3472,2025-01-15,False,Cloudy,False,Light Drizzle
-3473,2025-01-16,False,Cloudy,False,Cloudy
+3473,2025-01-16,False,Light Snow,False,Cloudy
 3474,2025-01-17,False,Cloudy,False,Cloudy
-3475,2025-01-18,False,Snow,False,Cloudy
-3476,2025-01-19,False,Light Snow,False,Cloudy
-3477,2025-01-20,False,Snow,False,Cloudy
-3478,2025-01-21,False,Snow,False,Cloudy
-3479,2025-01-22,False,Heavy Snow,False,Cloudy
-3480,2025-01-23,False,Snow,False,Light Rain
-3481,2025-01-24,True,Sunny,False,Drizzle
+3475,2025-01-18,False,Drizzle,False,Cloudy
+3476,2025-01-19,False,Heavy Snow,False,Cloudy
+3477,2025-01-20,False,Light Snow,False,Cloudy
+3478,2025-01-21,False,Light Snow,False,Cloudy
+3479,2025-01-22,False,Cloudy,False,Cloudy
+3480,2025-01-23,False,Cloudy,False,Light Rain
+3481,2025-01-24,False,Cloudy,False,Drizzle
 3482,2025-01-25,False,Cloudy,False,Light Drizzle
 3483,2025-01-26,False,Cloudy,False,Light Rain
 3484,2025-01-27,False,Cloudy,False,Drizzle
-3485,2025-01-28,False,Light Snow,False,Drizzle
-3486,2025-01-29,False,Snow,False,Heavy Drizzle
-3487,2025-01-30,False,Snow,False,Light Drizzle
-3488,2025-01-31,False,Snow,False,Heavy Drizzle
-3489,2025-02-01,False,Mainly Sunny,False,Cloudy
-3490,2025-02-02,True,Sunny,False,Cloudy
-3491,2025-02-03,False,Cloudy,False,Cloudy
-3492,2025-02-04,False,Cloudy,False,Mainly Sunny
+3485,2025-01-28,False,Cloudy,False,Drizzle
+3486,2025-01-29,False,Light Drizzle,False,Heavy Drizzle
+3487,2025-01-30,False,Cloudy,False,Light Drizzle
+3488,2025-01-31,False,Light Rain,False,Heavy Drizzle
+3489,2025-02-01,False,Light Rain,False,Cloudy
+3490,2025-02-02,False,Heavy Snow,False,Cloudy
+3491,2025-02-03,False,Light Snow,False,Cloudy
+3492,2025-02-04,False,Light Drizzle,False,Mainly Sunny
 3493,2025-02-05,False,Cloudy,False,Cloudy
-3494,2025-02-06,False,Cloudy,False,Cloudy
-3495,2025-02-07,False,Light Snow,False,Cloudy
-3496,2025-02-08,False,Light Snow,False,Cloudy
-3497,2025-02-09,False,Cloudy,False,Cloudy
+3494,2025-02-06,False,Heavy Snow,False,Cloudy
+3495,2025-02-07,False,Cloudy,False,Cloudy
+3496,2025-02-08,False,Heavy Snow,False,Cloudy
+3497,2025-02-09,False,Snow,False,Cloudy
 3498,2025-02-10,False,Cloudy,False,Cloudy
 3499,2025-02-11,False,Snow,False,Cloudy
 3500,2025-02-12,False,Snow,False,Cloudy
 3501,2025-02-13,False,Light Snow,False,Snow
-3502,2025-02-14,False,Light Snow,False,Snow
+3502,2025-02-14,False,Cloudy,False,Snow
 3503,2025-02-15,False,Snow,False,Snow
-3504,2025-02-16,False,Light Snow,False,Light Snow
-3505,2025-02-17,False,Light Snow,False,Cloudy
+3504,2025-02-16,False,Rain,False,Light Snow
+3505,2025-02-17,False,Cloudy,False,Cloudy
 3506,2025-02-18,False,Cloudy,True,Sunny
 3507,2025-02-19,False,Cloudy,True,Sunny
-3508,2025-02-20,False,Cloudy,False,Cloudy
+3508,2025-02-20,False,Light Snow,False,Cloudy
 3509,2025-02-21,False,Cloudy,False,Cloudy
 3510,2025-02-22,False,Cloudy,False,Cloudy
 3511,2025-02-23,False,Cloudy,False,Cloudy
-3512,2025-02-24,False,Light Snow,False,Cloudy
-3513,2025-02-25,False,Snow,False,Drizzle
-3514,2025-02-26,False,Snow,False,Drizzle
-3515,2025-02-27,False,Snow,False,Light Drizzle
-3516,2025-02-28,False,Snow,False,Light Rain
+3512,2025-02-24,False,Cloudy,False,Cloudy
+3513,2025-02-25,False,Cloudy,False,Drizzle
+3514,2025-02-26,False,Light Drizzle,False,Drizzle
+3515,2025-02-27,False,Light Rain,False,Light Drizzle
+3516,2025-02-28,False,Cloudy,False,Light Rain
 3517,2025-03-01,False,Cloudy,False,Light Drizzle
-3518,2025-03-02,False,Snow,False,Cloudy
-3519,2025-03-03,False,Snow,False,Cloudy
+3518,2025-03-02,False,Cloudy,False,Cloudy
+3519,2025-03-03,False,Cloudy,False,Cloudy
 3520,2025-03-04,False,Cloudy,False,Cloudy
-3521,2025-03-05,False,Cloudy,False,Cloudy
-3522,2025-03-06,False,Heavy Snow,False,Partly Cloudy
-3523,2025-03-07,False,Heavy Snow,False,Cloudy
-3524,2025-03-08,False,Heavy Snow,False,Cloudy
-3525,2025-03-09,False,Heavy Snow,False,Cloudy
-3526,2025-03-10,False,Light Snow,False,Cloudy
-3527,2025-03-11,False,Cloudy,False,Cloudy
+3521,2025-03-05,False,Heavy Rain,False,Cloudy
+3522,2025-03-06,False,Rain,False,Partly Cloudy
+3523,2025-03-07,False,Cloudy,False,Cloudy
+3524,2025-03-08,False,Cloudy,False,Cloudy
+3525,2025-03-09,False,Light Drizzle,False,Cloudy
+3526,2025-03-10,False,Partly Cloudy,False,Cloudy
+3527,2025-03-11,False,Mainly Sunny,False,Cloudy
 3528,2025-03-12,False,Cloudy,False,Drizzle
-3529,2025-03-13,False,Partly Cloudy,False,Light Drizzle
+3529,2025-03-13,False,Cloudy,False,Light Drizzle
 3530,2025-03-14,False,Cloudy,False,Light Drizzle
-3531,2025-03-15,False,Snow,False,Light Drizzle
-3532,2025-03-16,False,Cloudy,False,Light Drizzle
-3533,2025-03-17,False,Cloudy,False,Light Drizzle
-3534,2025-03-18,True,Sunny,True,Sunny
-3535,2025-03-19,True,Sunny,True,Sunny
-3536,2025-03-20,True,Sunny,False,Cloudy
-3537,2025-03-21,False,Cloudy,False,Mainly Sunny
-3538,2025-03-22,False,Cloudy,True,Sunny
-3539,2025-03-23,False,Snow,False,Cloudy
-3540,2025-03-24,False,Heavy Snow,False,Cloudy
-3541,2025-03-25,False,Snow,False,Cloudy
-3542,2025-03-26,False,Snow,False,Light Drizzle
-3543,2025-03-27,False,Light Snow,False,Cloudy
-3544,2025-03-28,False,Snow,False,Cloudy
-3545,2025-03-29,False,Snow,False,Cloudy
-3546,2025-03-30,False,Light Snow,False,Light Snow
-3547,2025-03-31,False,Mainly Sunny,False,Light Drizzle
-3548,2025-04-01,False,Mainly Sunny,False,Cloudy
-3549,2025-04-02,False,Mainly Sunny,False,Mainly Sunny
-3550,2025-04-03,False,Cloudy,True,Sunny
-3551,2025-04-04,False,Light Snow,False,Cloudy
-3552,2025-04-05,False,Heavy Snow,False,Cloudy
-3553,2025-04-06,False,Heavy Snow,False,Cloudy
-3554,2025-04-07,False,Heavy Snow,False,Cloudy
-3555,2025-04-08,False,Snow,False,Cloudy
-3556,2025-04-09,False,Heavy Snow,False,Light Drizzle
-3557,2025-04-10,False,Cloudy,False,Cloudy
-3558,2025-04-11,False,Cloudy,False,Light Drizzle
-3559,2025-04-12,False,Cloudy,False,Cloudy
-3560,2025-04-13,False,Heavy Snow,False,Cloudy
-3561,2025-04-14,False,Heavy Snow,False,Light Drizzle
-3562,2025-04-15,False,Heavy Snow,False,Light Drizzle
-3563,2025-04-16,False,Heavy Snow,False,Cloudy
-3564,2025-04-17,False,Heavy Snow,False,Cloudy
-3565,2025-04-18,False,Heavy Snow,False,Heavy Drizzle
-3566,2025-04-19,False,Snow,False,Light Rain
-3567,2025-04-20,False,Snow,False,Cloudy
-3568,2025-04-21,False,Snow,False,Light Drizzle
-3569,2025-04-22,False,Light Snow,False,Rain
-3570,2025-04-23,False,Light Snow,False,Heavy Drizzle
-3571,2025-04-24,False,Snow,False,Cloudy
+3531,2025-03-15,False,Light Drizzle,False,Light Drizzle
+3532,2025-03-16,False,Heavy Rain,False,Light Drizzle
+3533,2025-03-17,False,Rain,False,Light Drizzle
+3534,2025-03-18,False,Cloudy,True,Sunny
+3535,2025-03-19,False,Cloudy,True,Sunny
+3536,2025-03-20,False,Rain,False,Cloudy
+3537,2025-03-21,False,Light Rain,False,Mainly Sunny
+3538,2025-03-22,False,Light Drizzle,True,Sunny
+3539,2025-03-23,False,Cloudy,False,Cloudy
+3540,2025-03-24,False,Rain,False,Cloudy
+3541,2025-03-25,False,Cloudy,False,Cloudy
+3542,2025-03-26,False,Light Drizzle,False,Light Drizzle
+3543,2025-03-27,False,Partly Cloudy,False,Cloudy
+3544,2025-03-28,False,Light Drizzle,False,Cloudy
+3545,2025-03-29,False,Rain,False,Cloudy
+3546,2025-03-30,False,Light Drizzle,False,Light Snow
+3547,2025-03-31,False,Rain,False,Light Drizzle
+3548,2025-04-01,False,Rain,False,Cloudy
+3549,2025-04-02,False,Cloudy,False,Mainly Sunny
+3550,2025-04-03,False,Heavy Drizzle,True,Sunny
+3551,2025-04-04,False,Rain,False,Cloudy
+3552,2025-04-05,False,Rain,False,Cloudy
+3553,2025-04-06,False,Rain,False,Cloudy
+3554,2025-04-07,False,Light Rain,False,Cloudy
+3555,2025-04-08,False,Cloudy,False,Cloudy
+3556,2025-04-09,False,Cloudy,False,Light Drizzle
+3557,2025-04-10,False,Light Drizzle,False,Cloudy
+3558,2025-04-11,False,Light Rain,False,Light Drizzle
+3559,2025-04-12,False,Snow,False,Cloudy
+3560,2025-04-13,False,Light Drizzle,False,Cloudy
+3561,2025-04-14,False,Cloudy,False,Light Drizzle
+3562,2025-04-15,False,Rain,False,Light Drizzle
+3563,2025-04-16,False,Cloudy,False,Cloudy
+3564,2025-04-17,False,Mainly Sunny,False,Cloudy
+3565,2025-04-18,False,Light Drizzle,False,Heavy Drizzle
+3566,2025-04-19,False,Drizzle,False,Light Rain
+3567,2025-04-20,False,Cloudy,False,Cloudy
+3568,2025-04-21,False,Light Drizzle,False,Light Drizzle
+3569,2025-04-22,False,Light Drizzle,False,Rain
+3570,2025-04-23,False,Cloudy,False,Heavy Drizzle
+3571,2025-04-24,False,Cloudy,False,Cloudy
 3572,2025-04-25,False,Cloudy,False,Cloudy
-3573,2025-04-26,False,Light Snow,False,Mainly Sunny
-3574,2025-04-27,False,Partly Cloudy,True,Sunny
-3575,2025-04-28,False,Cloudy,False,Cloudy
+3573,2025-04-26,False,Light Rain,False,Mainly Sunny
+3574,2025-04-27,False,Cloudy,True,Sunny
+3575,2025-04-28,False,Partly Cloudy,False,Cloudy
 3576,2025-04-29,False,Cloudy,False,Cloudy
 3577,2025-04-30,False,Cloudy,False,Cloudy
-3578,2025-05-01,False,Heavy Drizzle,False,Cloudy
-3579,2025-05-02,False,Snow,False,Light Drizzle
-3580,2025-05-03,True,Sunny,False,Light Drizzle
-3581,2025-05-04,False,Partly Cloudy,False,Light Drizzle
-3582,2025-05-05,False,Cloudy,False,Cloudy
-3583,2025-05-06,False,Cloudy,False,Cloudy
-3584,2025-05-07,False,Cloudy,False,Cloudy
+3578,2025-05-01,False,Cloudy,False,Cloudy
+3579,2025-05-02,False,Drizzle,False,Light Drizzle
+3580,2025-05-03,False,Rain,False,Light Drizzle
+3581,2025-05-04,False,Light Rain,False,Light Drizzle
+3582,2025-05-05,False,Rain,False,Cloudy
+3583,2025-05-06,False,Heavy Rain,False,Cloudy
+3584,2025-05-07,False,Drizzle,False,Cloudy
 3585,2025-05-08,False,Light Drizzle,False,Cloudy
-3586,2025-05-09,False,Heavy Snow,False,Cloudy
-3587,2025-05-10,False,Snow,False,Light Drizzle
-3588,2025-05-11,False,Light Drizzle,False,Partly Cloudy
-3589,2025-05-12,False,Light Drizzle,False,Cloudy
-3590,2025-05-13,False,Light Drizzle,False,Cloudy
-3591,2025-05-14,False,Light Drizzle,False,Cloudy
-3592,2025-05-15,False,Light Drizzle,False,Light Drizzle
-3593,2025-05-16,False,Cloudy,False,Light Drizzle
-3594,2025-05-17,False,Light Drizzle,False,Drizzle
-3595,2025-05-18,False,Rain,False,Heavy Drizzle
-3596,2025-05-19,False,Light Drizzle,False,Drizzle
-3597,2025-05-20,False,Drizzle,False,Cloudy
-3598,2025-05-21,False,Mainly Sunny,False,Cloudy
-3599,2025-05-22,False,Heavy Drizzle,False,Light Drizzle
-3600,2025-05-23,False,Heavy Snow,False,Light Rain
-3601,2025-05-24,False,Light Snow,False,Light Drizzle
-3602,2025-05-25,False,Snow,False,Drizzle
-3603,2025-05-26,False,Light Snow,False,Light Drizzle
-3604,2025-05-27,False,Snow,False,Cloudy
-3605,2025-05-28,False,Snow,False,Drizzle
-3606,2025-05-29,False,Snow,False,Cloudy
-3607,2025-05-30,False,Heavy Snow,False,Heavy Drizzle
-3608,2025-05-31,False,Light Snow,False,Drizzle
-3609,2025-06-01,False,Light Snow,False,Heavy Drizzle
-3610,2025-06-02,False,Snow,False,Light Drizzle
-3611,2025-06-03,False,Heavy Snow,False,Cloudy
-3612,2025-06-04,False,Drizzle,False,Light Rain
+3586,2025-05-09,False,Rain,False,Cloudy
+3587,2025-05-10,False,Cloudy,False,Light Drizzle
+3588,2025-05-11,False,Cloudy,False,Partly Cloudy
+3589,2025-05-12,False,Cloudy,False,Cloudy
+3590,2025-05-13,False,Light Rain,False,Cloudy
+3591,2025-05-14,False,Rain,False,Cloudy
+3592,2025-05-15,False,Drizzle,False,Light Drizzle
+3593,2025-05-16,False,Drizzle,False,Light Drizzle
+3594,2025-05-17,False,Light Rain,False,Drizzle
+3595,2025-05-18,False,Light Drizzle,False,Heavy Drizzle
+3596,2025-05-19,False,Cloudy,False,Drizzle
+3597,2025-05-20,False,Cloudy,False,Cloudy
+3598,2025-05-21,False,Drizzle,False,Cloudy
+3599,2025-05-22,False,Rain,False,Light Drizzle
+3600,2025-05-23,False,Rain,False,Light Rain
+3601,2025-05-24,False,Light Drizzle,False,Light Drizzle
+3602,2025-05-25,False,Light Drizzle,False,Drizzle
+3603,2025-05-26,False,Cloudy,False,Light Drizzle
+3604,2025-05-27,False,Cloudy,False,Cloudy
+3605,2025-05-28,False,Rain,False,Drizzle
+3606,2025-05-29,False,Drizzle,False,Cloudy
+3607,2025-05-30,False,Light Rain,False,Heavy Drizzle
+3608,2025-05-31,False,Heavy Rain,False,Drizzle
+3609,2025-06-01,False,Cloudy,False,Heavy Drizzle
+3610,2025-06-02,False,Cloudy,False,Light Drizzle
+3611,2025-06-03,False,Mainly Sunny,False,Cloudy
+3612,2025-06-04,False,Cloudy,False,Light Rain
 3613,2025-06-05,False,Cloudy,False,Light Drizzle
-3614,2025-06-06,False,Light Drizzle,False,Drizzle
-3615,2025-06-07,False,Light Drizzle,False,Rain
-3616,2025-06-08,False,Light Drizzle,False,Rain
+3614,2025-06-06,False,Cloudy,False,Drizzle
+3615,2025-06-07,False,Light Rain,False,Rain
+3616,2025-06-08,False,Drizzle,False,Rain
 3617,2025-06-09,False,Light Rain,False,Heavy Drizzle
-3618,2025-06-10,False,Light Rain,False,Light Rain
-3619,2025-06-11,False,Light Drizzle,False,Light Drizzle
-3620,2025-06-12,False,Rain,False,Mainly Sunny
-3621,2025-06-13,False,Drizzle,False,Cloudy
+3618,2025-06-10,False,Rain,False,Light Rain
+3619,2025-06-11,False,Cloudy,False,Light Drizzle
+3620,2025-06-12,False,Light Drizzle,False,Mainly Sunny
+3621,2025-06-13,False,Cloudy,False,Cloudy
 3622,2025-06-14,False,Drizzle,True,Sunny
-3623,2025-06-15,False,Rain,False,Drizzle
+3623,2025-06-15,False,Heavy Drizzle,False,Drizzle
