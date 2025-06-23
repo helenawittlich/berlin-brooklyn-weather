@@ -221,3 +221,7 @@ pyrightconfig.json
 # Ignore all local history of files
 .history
 .ionide
+
+
+#pycache
+__pycache__
