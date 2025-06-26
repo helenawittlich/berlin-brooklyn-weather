@@ -96,6 +96,38 @@
             text-align: center;
         }
 
+        .full-width {
+            width: 80vw;
+            margin-left: calc(-40vw + 50%);
+            margin-right: calc(-40vw + 50%);
+            padding: 2em 1;
+            }
+
+        .iframe-row {
+            display: flex;
+            flex-direction: column; /* Default: stack on mobile */
+            gap: 1em;
+            margin-bottom: 2em;
+            }
+
+            .iframe-row iframe {
+            width: 100%;
+            min-width: 0;
+            flex: 1;
+            }
+
+            @media (min-width: 641px) {
+            .iframe-row {
+                flex-direction: row;
+            }
+
+            .iframe-row iframe {
+                width: 50%;         /* make each iframe take half the space */
+                height: 500px;      /* adjust as needed */
+            }
+            }
+
+
         /* margin on mobile */
         @media (max-width: 640px) {
             body {
@@ -107,6 +139,7 @@
                 padding-right: 0.5em;
             }
         }
+        
     </style>
 </head>
 
@@ -122,7 +155,7 @@
 
         <iframe title="" aria-label="Bar Chart" id="datawrapper-chart-syJMq"
             src="https://datawrapper.dwcdn.net/syJMq/" scrolling="no" frameborder="0"
-            style="width: 0; min-width: 100% !important; border: none;" height="757" data-external="1"></iframe>
+            style="width: 0; min-width: 100% !important; border: none;" data-external="1"></iframe>
         <script type="text/javascript">!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();
         </script>
 
@@ -140,7 +173,7 @@
 
         <iframe title="" aria-label="Line Chart" id="datawrapper-chart-4WGVP"
             src="https://datawrapper.dwcdn.net/4WGVP/" scrolling="no" frameborder="0"
-            style="width: 0; min-width: 100% !important; border: none;" height="757" data-external="1"></iframe>
+            style="width: 0; min-width: 100% !important; border: none;" data-external="1"></iframe>
         <script type="text/javascript">!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();
         </script>
 
@@ -151,8 +184,19 @@
             now we're using Lora for headlines and Georgia for body copy.</a></p>
         <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
             Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-            laborum.</p>
+            laborum.</p>        
 
+ 
+    </div>
+        <div class="iframe-row full-width">
+        <iframe title="Berlin Chart" src="https://datawrapper.dwcdn.net/qkfVL/" scrolling="no" frameborder="0"
+                 style="border: none;" data-external="1"></iframe>
+
+        <iframe title="Brooklyn Chart" src="https://datawrapper.dwcdn.net/6OQTy/1/" scrolling="no" frameborder="0"
+            style="border: none;" data-external="1"></iframe>
+    </div>
+
+        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium...</p>
 
         <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
             aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
@@ -210,6 +254,26 @@
             <p>Copyright: <a href='mailto:contact@helenawittlich.com'>Helena Wittlich</a></p>
         </div>
     </div>
+  </div>
+</div>
+
+// Datawrapper resize 
+<script type="text/javascript">
+!function () {
+  "use strict";
+  window.addEventListener("message", function (a) {
+    if (void 0 !== a.data["datawrapper-height"]) {
+      var e = document.querySelectorAll("iframe");
+      for (var t in a.data["datawrapper-height"])
+        for (var r = 0; r < e.length; r++)
+          if (e[r].contentWindow === a.source) {
+            e[r].style.height = a.data["datawrapper-height"][t] + "px";
+          }
+    }
+  });
+}();
+</script>
+
 </body>
 
 </html>
