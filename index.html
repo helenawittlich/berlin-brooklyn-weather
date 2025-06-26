@@ -125,7 +125,6 @@
 
             .iframe-row iframe {
                 width: 50%;         /* make each iframe take half the space */
-                height: 500px;      /* adjust as needed */
             }
             }
 
@@ -260,22 +259,6 @@
     </div>
   </div>
 </div>
-
-// Datawrapper resize 
-<script type="text/javascript">
-!function () {
-  "use strict";
-  window.addEventListener("message", function (a) {
-    if (void 0 !== a.data["datawrapper-height"]) {
-      var e = document.querySelectorAll("iframe");
-      for (var t in a.data["datawrapper-height"])
-        for (var r = 0; r < e.length; r++)
-          if (e[r].contentWindow === a.source) {
-            e[r].style.height = a.data["datawrapper-height"][t] + "px";
-          }
-    }
-  });
-}();
 </script>
 
 </body>
