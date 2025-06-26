@@ -96,37 +96,44 @@
             text-align: center;
         }
 
-        .full-width {
-            width: 100vw;
+        .full-width-iframe {
+            width: 80vw;
             box-sizing: border-box;
             padding: 1em 1em;
             overflow-x: hidden;
-            margin-left: calc(-50vw + 50%);
-            margin-right: calc(-50vw + 50%);
+            margin-left: calc(-40vw + 50%);
+            margin-right: calc(-40vw + 50%);
         }
 
+        /* Desktop styles (default) */
         .iframe-row {
             display: flex;
-            flex-direction: column; /* Default: stack on mobile */
+            flex-direction: row;       /* side by side on desktop */
             gap: 1em;
             margin-bottom: 2em;
-            }
+            min-height: 400px;
+        }
 
-            .iframe-row iframe {
-            width: 100%;
+        .iframe-row iframe {
+            width: 50%;
             min-width: 0;
             flex: 1;
-            }
+        }
 
-            @media (min-width: 641px) {
-            .iframe-row {
-                flex-direction: row;
-            }
+        /* Mobile override */
+        @media (max-width: 869px) {
+        .iframe-row {
+            flex-direction: column;  /* stack on mobile */
+            /*min-height: 1000px;      /* force height to avoid clipping */
+        }
 
-            .iframe-row iframe {
-                width: 50%;         /* make each iframe take half the space */
-            }
-            }
+        .iframe-row iframe {
+            width: 100%;
+            min-height: 400px;       /* or 650–700 depending on content */
+            height: auto;
+        }
+        }
+
 
 
         /* margin on mobile */
