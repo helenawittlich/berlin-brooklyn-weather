@@ -97,11 +97,13 @@
         }
 
         .full-width {
-            width: 80vw;
-            margin-left: calc(-40vw + 50%);
-            margin-right: calc(-40vw + 50%);
-            padding: 2em 1;
-            }
+            width: 100vw;
+            box-sizing: border-box;
+            padding: 1em 1em;
+            overflow-x: hidden;
+            margin-left: calc(-50vw + 50%);
+            margin-right: calc(-50vw + 50%);
+        }
 
         .iframe-row {
             display: flex;
@@ -146,8 +148,8 @@
 <body>
     <div class="content">
         <div class="header">
-            <h1>This is some stuff I did with weather data</h1>
-            <p class="subhead">Which city has the better weather? Berlin or Brooklyn</p>
+            <h1>Are Brooklyn's sunny weekends over?</h1>
+            <p class="subhead">Germans love to talk about weather. Brooklyn had what felt like exceptional bad weather in spring. In Berlin, it was great. Which city gets more sun – my old home Berlin or my new home Brooklyn?</p>
         </div>
         <div class="byline">
             <p>By <a href="https://helenawittlich.com">Helena Wittlich</a></p>
@@ -196,6 +198,8 @@
             style="border: none;" data-external="1"></iframe>
     </div>
 
+    <div class="content">
+
         <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium...</p>
 
         <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
@@ -225,7 +229,7 @@
             veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
             consequatur?</p>
     </div>
-
+    </div>  
     <div class="content">
         <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti
             atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique
