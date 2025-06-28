@@ -27,7 +27,7 @@
         }
 
         .header {
-            padding: 3em 0;
+            padding: 0em 0;
         }
 
         a {
@@ -40,6 +40,14 @@
             font-size: 0.8em;
             margin-top: 4em;
             padding: 4em 0;
+        }
+
+        .header-image {
+            width: 100%;
+            height: auto;
+            max-height: 100px;   /* optional limit */
+            display: block;
+            margin-bottom: 1em;
         }
 
         figure {
@@ -70,6 +78,8 @@
         video {
             max-width: 100%;
         }
+
+        
 
         p {
             line-height: 1.6;
@@ -163,6 +173,9 @@
 
 <body>
     <div class="content">
+    <div class="header">
+    <img src="images/Frame 458.svg" alt="Skyline of Brooklyn and Berlin" class="header-image">
+
         <div class="header">
             <h1>Are Brooklyn's sunny weekends over?</h1>
             <p class="subhead">Germans love to talk about weather. Brooklyn had what felt like exceptional bad weather in spring. In Berlin, it was great. Which city gets more sun – my old home Berlin or my new home Brooklyn?</p>
