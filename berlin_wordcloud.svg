@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2621" height="2109">
 <style>text{font-family:'Roboto';font-weight:normal;font-style:normal;}</style>
 <rect width="100%" height="100%" style="fill:white"></rect>
-<text transform="translate(465,1324)" font-size="511" style="fill:#C3B3D3">cloudy</text>
-<text transform="translate(504,817)" font-size="391" style="fill:#fdf464">sunny</text>
-<text transform="translate(137,1538)" font-size="279" style="fill:#C3B3D3">partly cloudy</text>
-<text transform="translate(432,542)" font-size="185" style="fill:#fdf464">mainly sunny</text>
-<text transform="translate(2131,1830) rotate(-90)" font-size="126" style="fill:#C3B3D3">light rain</text>
-<text transform="translate(364,1347) rotate(-90)" font-size="101" style="fill:#C3B3D3">light showers</text>
-<text transform="translate(1962,1563) rotate(-90)" font-size="60" style="fill:#C3B3D3">light drizzle</text>
-<text transform="translate(1166,1368)" font-size="49" style="fill:#C3B3D3">thunderstorm</text>
-<text transform="translate(454,1288) rotate(-90)" font-size="34" style="fill:#C3B3D3">drizzle</text>
-<text transform="translate(206,1824)" font-size="34" style="fill:#C3B3D3">rain</text>
-<text transform="translate(1552,815)" font-size="34" style="fill:#C3B3D3">foggy</text>
-<text transform="translate(1078,1013)" font-size="26" style="fill:#C3B3D3">heavy drizzle</text>
-<text transform="translate(1141,907) rotate(-90)" font-size="26" style="fill:#C3B3D3">light thunderstorms with hail</text>
+<text transform="translate(476,1494)" font-size="511" style="fill:#C3B3D3">cloudy</text>
+<text transform="translate(580,862)" font-size="390" style="fill:#fdf464">sunny</text>
+<text transform="translate(182,1032)" font-size="220" style="fill:#C3B3D3">partly cloudy</text>
+<text transform="translate(447,605)" font-size="186" style="fill:#fdf464">mainly sunny</text>
+<text transform="translate(616,1621)" font-size="127" style="fill:#C3B3D3">light rain</text>
+<text transform="translate(459,1665) rotate(-90)" font-size="102" style="fill:#C3B3D3">light showers</text>
+<text transform="translate(875,1186)" font-size="60" style="fill:#C3B3D3">light drizzle</text>
+<text transform="translate(1702,1020)" font-size="49" style="fill:#C3B3D3">thunderstorm</text>
+<text transform="translate(1202,1794) rotate(-90)" font-size="34" style="fill:#C3B3D3">drizzle</text>
+<text transform="translate(1139,1803) rotate(-90)" font-size="34" style="fill:#C3B3D3">rain</text>
+<text transform="translate(1248,1074)" font-size="34" style="fill:#C3B3D3">foggy</text>
+<text transform="translate(1199,484) rotate(-90)" font-size="26" style="fill:#C3B3D3">heavy drizzle</text>
+<text transform="translate(2089,1485)" font-size="26" style="fill:#C3B3D3">light thunderstorms with hail</text>
 </svg>
