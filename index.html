@@ -154,7 +154,7 @@
 
         .iframe-row iframe {
             width: 50%;
-            min-width: 0;
+            /*min-width: 0;
             flex: 1;
         }
 
@@ -162,7 +162,8 @@
         @media (max-width: 869px) {
         .iframe-row {
             flex-direction: column;  /* stack on mobile */
-            /*min-height: 1000px;      /* force height to avoid clipping */
+            min-height: 1200px;      /* force height to avoid clipping */
+            min-width: none;
         }
 
         .iframe-row iframe {
@@ -255,9 +256,14 @@
             <div class="iframe-row full-width-iframe">
             <iframe title="Brooklyn Chart" src="https://datawrapper.dwcdn.net/6OQTy/1/" scrolling="no" frameborder="0"
                 style="border: none;" data-external="1"></iframe>
+            <script type="text/javascript">!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();
+        </script>
+
             
             <iframe title="Berlin Chart" src="https://datawrapper.dwcdn.net/qkfVL/" scrolling="no" frameborder="0"
                     style="border: none;" data-external="1"></iframe>
+                <script type="text/javascript">!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();
+        </script>
         </div>
 
         <p>The humidity makes Brooklyn’s climate feel more extreme. And with climate change, it’s only going to get worse — in both cities.</p>
@@ -273,6 +279,9 @@
         <iframe title="" aria-label="Bar Chart" id="datawrapper-chart-IK03Y"
             src="https://datawrapper.dwcdn.net/IK03Y/" scrolling="no" frameborder="0"
             style="width: 0; min-width: 100% !important; border: none;" data-external="1"></iframe>
+            <script type="text/javascript">!function () { "use strict"; window.addEventListener("message", (function (a) { if (void 0 !== a.data["datawrapper-height"]) { var e = document.querySelectorAll("iframe"); for (var t in a.data["datawrapper-height"]) for (var r = 0; r < e.length; r++)if (e[r].contentWindow === a.source) { var i = a.data["datawrapper-height"][t] + "px"; e[r].style.height = i } } })) }();
+        </script>
+
 
         <p>If a year was warmer than the climate reference period from 1961 to 1990, the bars are red. If the month was colder, it’s blue. The longer the bar, the higher the deviation.</p>
 
